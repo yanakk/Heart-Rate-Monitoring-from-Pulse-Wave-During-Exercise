@@ -6,19 +6,19 @@ As for the code document, please refer to the [pdf file](https://github.com/yana
 Experiment design:
 
 <div align="center">
-<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/running%20experiment.png" >
+<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/running%20experiment.png" height="133" width="575">
 </div>
 
 <div align="center">
-<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/talking%20experiment.png" >
+<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/talking%20experiment.png" height="122" width="575">
 </div>
 
 Results:
 
 <div align="center">
-<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/SSA.png" >
+<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/SSA.png" height="380" width="420">
 </div>
 
 <div align="center">
-<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/result.png" >
+<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/result.png" height="380" width="420">
 </div>
