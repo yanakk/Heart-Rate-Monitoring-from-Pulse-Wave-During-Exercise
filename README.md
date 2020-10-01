@@ -20,5 +20,9 @@ Results:
 </div>
 
 <div align="center">
+<img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/peak.png" height="350" width="400">
+</div>
+
+<div align="center">
 <img src="https://github.com/yanakk/Heart-Rate-Monitoring-from-Pulse-Wave-During-Exercise/blob/master/img/result.png" height="350" width="400">
 </div>
